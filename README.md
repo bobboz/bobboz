@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bobboz
+- 👋 Hi, I’m Basma Ahmed.
 - 👀 I’m interested in everything new in the world of technology and programming in particular, and I also love reading and swimming
 - 🌱 I'm certified as a data analytis. I have obtained a certified data analysis certification from both Udacity, and Google.
 - 🌱 I finished Google Data analytics Program using R Programming, and Udacity Data Analysis using Python programming Language.
